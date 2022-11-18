@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YvesISH
-- 👀 I’m interested in Machine Learning, Data Science and DevOps
+- 👀 I’m interested in Machine Learning and DevOps
 
 ## 🧰 Languages and Tools:
 <p>
