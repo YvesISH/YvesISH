@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @YvesISH
 - 👀 I’m interested in Machine Learning and DevOps
 
-![](https://komarev.com/ghpvc/?username=YvesISH&color=green)
-
 ## 🧰 Languages and Tools:
 <p>
 <div>
