@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @YvesISH
-- 👀 I’m interested in Machine Learning and DevOps
+- 👋 HELLO WORLD, I’m @YvesISHIMWE
 
 ## 🧰 Languages and Tools:
 <p>
