@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @YvesISH
 - 👀 I’m interested in Machine Learning and DevOps
 
+![image title](https://rushter.com/counter.svg)
+
 ## 🧰 Languages and Tools:
 <p>
 <div>
